@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4463c125.css",
+    "main.js": "/static/js/main.90ad9eee.js",
+    "static/js/787.bdf436c4.chunk.js": "/static/js/787.bdf436c4.chunk.js",
+    "static/media/jejuMap.png": "/static/media/jejuMap.182d34b4f4949e38b197.png",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.4463c125.css.map": "/static/css/main.4463c125.css.map",
+    "main.90ad9eee.js.map": "/static/js/main.90ad9eee.js.map",
+    "787.bdf436c4.chunk.js.map": "/static/js/787.bdf436c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4463c125.css",
+    "static/js/main.90ad9eee.js"
+  ]
+}
